@@ -1,2 +1,3 @@
 #!/bin/bash
+OLDPWD=$(pwd)
 cd $OLDPWD
